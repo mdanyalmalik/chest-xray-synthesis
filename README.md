@@ -38,7 +38,7 @@ You can download pretrained model here:
 - Quantitative results:
     > Classifier trained on no finding chest x-rays vs Edema chest x-rays, first with only real images and then with both real and synthetic images (synthetic images in the train set only)
     
-    ![](https://i.imgur.com/eelcC7w.png "Results Graph")
+    ![](https://imgur.com/01jl4nU.png "Results Graph")
 
 ## Dataset
 
