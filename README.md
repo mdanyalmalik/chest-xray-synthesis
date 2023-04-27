@@ -24,6 +24,10 @@ To generate the chest x-ray data and evaluate using a classifier, open this note
 > This notebook is used to genarate multiple images to be used as a dataset or in addition to a dataset.
 > (make a copy if you wish to make changes)
 
+## Processed Dataset
+
+> As mentioned in the paper, we have processed the Chest X-ray 14 dataset to prepare it for stable diffusion fine-tuning.
+> The images can be found [here](https://drive.google.com/drive/u/0/folders/1qJgEFWvte6mDTQf1DKTXUDohsHZphrg_)
 
 ## Pre-trained Models
 
