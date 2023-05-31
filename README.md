@@ -1,7 +1,7 @@
 # Evaluating the feasibility of using Generative Models to generate Chest X-Ray Data
 Using GANs and Stable Diffusion to generate Chest Xray data points and evaluating them using convolutional classifiers.
 
-This repository is the official implementation of [Evaluating the feasibility of using Generative Models to generate Chest X-Ray Data](https://drive.google.com/file/d/1JIeVsuNiXZz0x9XM6HITTE-oPmEzFKk-/view?usp=sharing)
+This repository is the official implementation of [Evaluating the feasibility of using Generative Models to generate Chest X-Ray Data](http://arxiv.org/abs/2305.18927)
 
 ## How to run
 
